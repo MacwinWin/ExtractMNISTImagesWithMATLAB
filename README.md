@@ -1,2 +1,2 @@
 # ExtractMNISTImagesWithMATLAB
-Extract all images from MNIST ubyte files with MATLAB
+Extract all images from MNIST/Fashion MNIST ubyte files with MATLAB
